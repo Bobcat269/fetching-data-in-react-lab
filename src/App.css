@@ -33,6 +33,12 @@
   }
 }
 
+.shipCard{
+  padding: 2em;
+  border: 1px solid black;
+
+}
+
 .card {
   padding: 2em;
 }
